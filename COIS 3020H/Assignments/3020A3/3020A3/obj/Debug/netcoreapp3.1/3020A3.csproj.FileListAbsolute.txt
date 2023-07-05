@@ -1,0 +1,13 @@
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.exe
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.deps.json
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.runtimeconfig.json
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.runtimeconfig.dev.json
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.dll
+C:\Users\punya\source\repos\3020A3\3020A3\bin\Debug\netcoreapp3.1\3020A3.pdb
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.csprojAssemblyReference.cache
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.csproj.CoreCompileInputs.cache
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.AssemblyInfoInputs.cache
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.AssemblyInfo.cs
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.dll
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.pdb
+C:\Users\punya\source\repos\3020A3\3020A3\obj\Debug\netcoreapp3.1\3020A3.genruntimeconfig.cache

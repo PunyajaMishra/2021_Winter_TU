@@ -1,0 +1,13 @@
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.csprojAssemblyReference.cache
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.csproj.CoreCompileInputs.cache
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.AssemblyInfoInputs.cache
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.AssemblyInfo.cs
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.exe
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.deps.json
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.runtimeconfig.json
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.runtimeconfig.dev.json
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.dll
+C:\Users\punya\source\repos\A2_3020\A2_3020\bin\Debug\netcoreapp3.1\A2_3020.pdb
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.dll
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.pdb
+C:\Users\punya\source\repos\A2_3020\A2_3020\obj\Debug\netcoreapp3.1\A2_3020.genruntimeconfig.cache
